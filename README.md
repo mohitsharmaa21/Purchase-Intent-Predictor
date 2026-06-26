@@ -89,4 +89,4 @@ Designed & Developed by **Mohit Sharma**
 * **LinkedIn**: [linkedin.com/in/mohit-sharma2005](https://www.linkedin.com/in/mohit-sharma2005)
 * **GitHub**: [@mohitsharmaa21](https://github.com/mohitsharmaa21)
 
-*Built for Machine Learning Deployment Learning and Professional Portfolio Showcases.*
+*Built for Machine Learning Deployment Learning and Projects.*
