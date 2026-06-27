@@ -11,6 +11,7 @@ import PredictionResult from './components/PredictionResult';
 import VisualAnalytics from './components/VisualAnalytics';
 import PredictionHistory from './components/PredictionHistory';
 import ThemeToggle from './components/ThemeToggle';
+import AboutSection from './components/AboutSection';
 
 import { BrainCircuit, Cpu, Layers, ShoppingCart, MousePointer, BarChart2, Brain, Database, Sparkles } from 'lucide-react';
 import './styles/App.css';
@@ -318,6 +319,9 @@ export default function App() {
           onClear={handleClearHistory}
           onDownloadCSV={handleExportCSV}
         />
+
+        {/* ABOUT & MODEL GOALS SECTION */}
+        <AboutSection />
       </main>
 
       {/* FOOTER */}
