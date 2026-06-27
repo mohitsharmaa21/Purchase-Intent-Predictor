@@ -1197,3 +1197,21 @@ input:checked + .slider:before {
 .about-body {
   color: var(--text-secondary);
 }
+
+.footer-link-kaggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #008bb9;
+  font-weight: 500;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.footer-link-kaggle:hover {
+  opacity: 0.85;
+  transform: translateY(-1px);
+}
+
+[data-theme="dark"] .footer-link-kaggle {
+  color: #20beff;
+}
