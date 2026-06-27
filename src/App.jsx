@@ -361,7 +361,7 @@ export default function App() {
             </a>
             <span style={{ color: 'var(--border-color)', userSelect: 'none' }}>|</span>
             <a 
-              href="https://www.kaggle.com/code/mohitsharma7231/online-shoppers-intention-lightgbm-model#Model-Evaluation-&-Results" 
+              href="https://www.kaggle.com/mohitsharma7231" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="footer-link-kaggle"
