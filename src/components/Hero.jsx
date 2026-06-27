@@ -24,7 +24,7 @@ export default function Hero({ onStartClick }) {
           </h1>
           
           <p className="hero-subtitle" style={{ textAlign: 'left', maxWidth: 'none' }}>
-            Purchase intent prediction uses machine learning to analyze visitor behavior and estimate whether a customer is likely to complete a purchase. By evaluating real-time e-commerce session indicators, our platform helps digital storefronts personalize shopping journeys, optimize checkout funnels, and boost conversions instantly.
+            Purchase Intent Prediction uses machine learning to analyze visitor behavior and estimate whether a customer is likely to complete a purchase.
           </p>
 
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '1rem' }}>

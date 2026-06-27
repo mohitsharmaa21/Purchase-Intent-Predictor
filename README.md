@@ -2,6 +2,8 @@
 
 A premium, portfolio-quality AI SaaS frontend dashboard designed for real-time online shopper behavior prediction. This application takes digital browsing metrics, performs on-the-fly feature engineering, and connects to a deployed **Databricks Model Serving Endpoint** running a LightGBM classifier to predict whether a visitor is likely to make a purchase.
 
+* **Kaggle Notebook**: [Online Shoppers Intention - LightGBM Model](https://www.kaggle.com/code/mohitsharma7231/online-shoppers-intention-lightgbm-model#Model-Evaluation-&-Results)
+
 ![Purchase Intent Predictor Showcase](https://raw.githubusercontent.com/mohitsharmaa21/Purchase-Intent-Predictor/main/public/showcase_preview.png) *(Placeholder for your preview screenshot)*
 
 ## 🚀 Key Features
@@ -88,5 +90,6 @@ To connect the dashboard to your live Databricks serving model:
 Designed & Developed by **Mohit Sharma**
 * **LinkedIn**: [linkedin.com/in/mohit-sharma2005](https://www.linkedin.com/in/mohit-sharma2005)
 * **GitHub**: [@mohitsharmaa21](https://github.com/mohitsharmaa21)
+* **Kaggle Notebook**: [Online Shoppers Intention - LightGBM Model](https://www.kaggle.com/code/mohitsharma7231/online-shoppers-intention-lightgbm-model#Model-Evaluation-&-Results)
 
 *Built for Machine Learning Deployment Learning and Projects.*
